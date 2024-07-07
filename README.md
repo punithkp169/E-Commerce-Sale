@@ -1,4 +1,4 @@
-# E-Commerce-Sale
+# E-Commerce-Sales
 ## Project Overview
 This project provides a comprehensive analysis of e-commerce sales data using Power BI. The dashboards created offer insights into key performance indicators (KPIs), sales trends, regional performance, and customer behaviour, helping businesses make data-driven decisions.
 
