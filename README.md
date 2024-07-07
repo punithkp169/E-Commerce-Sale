@@ -22,3 +22,9 @@ This project provides a comprehensive analysis of e-commerce sales data using Po
 1. Sales and Profit by Ship Mode: Bar chart showing sales and profit for Standard Class, Second Class, First Class, and Same Day shipping.
 2. Sales and Profit by Segment: Bar chart analysing sales and profit across Consumer, Corporate, and Home Office segments.
 3. Sales by State: Map visualization indicating sales distribution across various states.
+
+### Report 1
+![Page 1](https://github.com/punithkp169/E-Commerce-Sale/assets/173493345/2005d72d-7fc0-4c07-ae4e-3258becac7ab)
+
+### Report 2
+![Page 2](https://github.com/punithkp169/E-Commerce-Sale/assets/173493345/de070715-30a0-4588-8d9e-ee482e4cfc0a)
